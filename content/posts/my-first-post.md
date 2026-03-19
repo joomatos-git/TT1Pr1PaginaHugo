@@ -1,7 +1,7 @@
 ---
 title: "Post uno. Test"
 date: 2026-03-19T19:42:41+01:00
-draft: true
+draft: false
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
